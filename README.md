@@ -57,39 +57,9 @@
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/miheesha-samarakoon" target="_blank" style="
-      background-color:#0A66C2; 
-      color:white; 
-      padding:8px 16px; 
-      text-decoration:none; 
-      border-radius:5px; 
-      font-weight:bold;
-      margin-right:10px;
-      display:inline-flex;
-      align-items:center;
-  ">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20" style="margin-right:8px;"/>
-    LinkedIn
-  </a>
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/miheesha-samarakoon) LinkedIn
 
-  <!-- Gmail Button -->
-  <a href="mailto:miheeshasamarakkon2004@gmail.com" target="_blank" style="
-      background-color:#D14836; 
-      color:white; 
-      padding:8px 16px; 
-      text-decoration:none; 
-      border-radius:5px; 
-      font-weight:bold;
-      display:inline-flex;
-      align-items:center;
-  ">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="20" width="20" style="margin-right:8px;"/>
-    Email
-  </a>
-</p>
-
+[![Email](https://img.icons8.com/fluency/48/gmail-new.png)](mailto:miheeshasamarakkon2004@gmail.com) Email
 
 ---
 
