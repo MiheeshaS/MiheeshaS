@@ -49,7 +49,7 @@
 
 
 ### 🔌 IoT & Hardware
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/-IoT-1F6FEB?style=flat&logo=internetofthings&logoColor=white)
 
