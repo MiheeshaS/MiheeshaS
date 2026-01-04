@@ -44,38 +44,6 @@
 
 ---
 
-## 📌 Featured Academic Projects
-
-### 🌱 SmartPlant Sarawak – AI & IoT Conservation System
-- AI-based plant species identification using image recognition  
-- IoT & GPS-based monitoring of endangered plants  
-- Implemented encryption, MFA & role-based access control  
-**Tech:** Python, TensorFlow, Firebase, AWS, GIS, IoT
-
----
-
-### 🧪 Billing System & Software Testing Automation
-- Web-based billing system for a dessert shop  
-- Automated testing with Selenium & Python  
-- CI pipelines with GitHub Actions  
-**Tech:** PHP, JavaScript, Python, Selenium
-
----
-
-### 🤖 Automated Negotiation System (JADE – Multi-Agent Systems)
-- FIPA-compliant automated negotiation (CNP & Iterated CNP)  
-- Broker, Buyer & Dealer agents with negotiation strategies  
-**Tech:** Java, JADE, OOP, MAS
-
----
-
-### 🦉 Wildlife Species Image Classification (AI)
-- Deep learning model for wildlife classification  
-- Explainable AI visualizations & evaluation  
-**Tech:** Python, TensorFlow/Keras, Scikit-learn
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -85,14 +53,6 @@
 <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40"/>
 </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
 </p>
 
 ---
