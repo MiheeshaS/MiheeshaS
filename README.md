@@ -61,9 +61,11 @@
 <a href="https://www.linkedin.com/in/miheesha-samarakoon" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
 </a>
+  
 <a href="mailto:miheeshasamarakkon2004@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
 </a>
+
 <a href="https://your-portfolio-link" target="_blank">
   <img src="https://img.shields.io/badge/PORTFOLIO-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio" height="40"/>
 </a>
