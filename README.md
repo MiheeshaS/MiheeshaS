@@ -1,4 +1,4 @@
-# Hello Fellow < I'm Miheesha Samarakoon >! 👋
+# Hello Fellows < I'm Miheesha Samarakoon >! 👋
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand-wave.gif" width="30px">
