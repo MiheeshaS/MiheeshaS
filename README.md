@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/hand-wave.gif" width="30px">
-  Hi! I’m <b>Miheesha Samarakoon</b>, an Undergraduate Computer Science student majoring in 
+  Hi! I’m <b>Miheesha Samarakoon</b>, an Undergraduate Computer Science student major in 
   <b>Cyber Security</b> at Swinburne University of Technology, Malaysia 🇲🇾
 </p>
 
