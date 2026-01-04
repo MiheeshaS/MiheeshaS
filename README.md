@@ -58,11 +58,12 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/miheesha-samarakoon" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-<a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40"/>
+
+<a href="mailto:miheeshasamarakkon2004@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="40"/>
 </a>
 </p>
 
