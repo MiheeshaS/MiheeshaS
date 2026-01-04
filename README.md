@@ -36,9 +36,9 @@
 ---
 
 ### 🧩 Backend & Admin Development
-![PHP Admin](https://img.shields.io/badge/-PHP%20(Admin)-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL Admin](https://img.shields.io/badge/-MySQL%20(Admin)-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase Admin](https://img.shields.io/badge/-Firebase%20(Admin)-FFCA28?style=flat&logo=firebase&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP%20(Admin)-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL%20(Admin)-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase%20(Admin)-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
