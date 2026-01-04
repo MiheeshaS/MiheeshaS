@@ -47,6 +47,12 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+
+### 🔌 IoT & Hardware
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-1F6FEB?style=flat&logo=internetofthings&logoColor=white)
+
 ---
 
 ## 🤝 Connect With Me
