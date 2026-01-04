@@ -57,9 +57,17 @@
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/miheesha-samarakoon) LinkedIn
-
-[![Email](https://img.icons8.com/fluency/48/gmail-new.png)](mailto:miheeshasamarakkon2004@gmail.com) Email
+<p align="left">
+<a href="https://www.linkedin.com/in/miheesha-samarakoon" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+</a>
+<a href="mailto:miheeshasamarakkon2004@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
+</a>
+<a href="https://your-portfolio-link" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio" height="40"/>
+</a>
+</p>
 
 ---
 
