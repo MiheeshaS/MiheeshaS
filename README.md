@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Miheesha Samarakoon
 
-<!--
-**MiheeshaS/MiheeshaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student  
+💻 Software Developer | Cloud Security Enthusiast | Intelligent Systems Learner  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am an IT student with hands-on experience in software development, cloud security, intelligent systems, and web technologies. 
+I enjoy building secure, scalable, and intelligent digital solutions through academic and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Programming:** Python, Java, C++, HTML, CSS, PHP
+- **Web Development:** Bootstrap, MySQL, Firebase
+- **Cloud & Security:** AWS, System Security, Ethical Hacking
+- **Tools:** Git, GitHub Actions, Selenium, Docker (if used)
+
+## 📌 Featured Projects
+- 🔹 **Billing System & Test Automation**
+  - Automated testing using Selenium & Python
+  - CI pipelines with GitHub Actions
+
+- 🔹 **Emergency Communication System (CB-ECS)**
+  - Solar-powered communication prototype
+  - GPS-based emergency alerts
+
+- 🔹 **Intelligent Systems Projects**
+  - Search algorithms (BFS, DFS, A*, IDA*)
+  - Multi-agent and constraint satisfaction problems
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/your-link
+- Portfolio: https://your-portfolio-link
