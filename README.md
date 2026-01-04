@@ -33,14 +33,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
 
 ### 🧩 Backend & Admin Development
 ![PHP](https://img.shields.io/badge/-PHP%20(Admin)-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL%20(Admin)-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase%20(Admin)-FFCA28?style=flat&logo=firebase&logoColor=black)
 
----
 
 ### 🛡️ Cybersecurity, Cloud & Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
