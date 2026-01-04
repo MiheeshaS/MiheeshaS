@@ -69,6 +69,18 @@
 
 ---
 
+## 🎮 Fun Facts
+- Bubble Tea enthusiast 🧋   
+- Gaming: Chess & Roblox ♟️🎮  
+- Love creating AI projects 🤖  
+- Enjoy building mini electronics & IoT gadgets ⚡  
+- Always experimenting with new programming languages 💻  
+- Night owl who codes best at midnight 🌙  
+- Fan of sci-fi movies & futuristic tech 🚀  
+- Collects interesting tech gadgets and keycaps 🛠️  
+
+---
+
 ## 💡 Programming Humor 😄
 > **Why do programmers prefer dark mode?**  
 > Because light attracts bugs 🐜
