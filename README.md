@@ -63,6 +63,12 @@
 
 ---
 
+## 📈 GitHub Stats
+![Miheesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiheeshaS&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiheeshaS&layout=compact&theme=radical)
+
+---
+
 ## 💡 Programming Humor 😄
 > **Why do programmers prefer dark mode?**  
 > Because light attracts bugs 🐜
